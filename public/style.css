@@ -5,6 +5,7 @@
 
 body {
   margin: 0;
+
 }
 
 .nav-wrapper {
@@ -48,6 +49,8 @@ button {
   color: white;
   font-size: 0.8rem;
   margin-left: 314px;
+  
+  
 }
 
 th {
@@ -59,4 +62,10 @@ th {
 
 tr {
   height: 35px;
+}
+ul{
+  margin-left: 45%;
+  margin-right: 30%;
+  border: #6ebbee solid 2px;
+  font-size:1.5em
 }
